@@ -1,0 +1,3 @@
+ Job Description Keywords:
+ Full Stack Developer, MERN Stack, React, Node, MongoDB, REST API, JavaScript, CSS, Tailwind,
+ Hackathon, Version Control, Responsive Design, B.Tech
